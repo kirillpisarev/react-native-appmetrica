@@ -1,5 +1,5 @@
 #import "RCTAppMetrica.h"
-#import <YandexMobileMetrica/YandexMobileMetrica.h>
+#import "YandexMobileMetrica.h"
 
 @implementation RCTAppMetrica {
 
